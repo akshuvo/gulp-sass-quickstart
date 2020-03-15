@@ -1,0 +1,23 @@
+{
+  "name": "gulp-sass-quickstart",
+  "version": "1.0.0",
+  "description": "Gulp 4, Gulp SASS quickstart",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp style"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshuvo/gulp-sass-quickstart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshuvo/gulp-sass-quickstart/issues"
+  },
+  "homepage": "https://github.com/akshuvo/gulp-sass-quickstart#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2"
+  }
+}
